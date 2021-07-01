@@ -10,8 +10,7 @@
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahid360&show_icons=true&locale=en&layout=compact" alt="mdnahid360" /></p>
+<p><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahid360&show_icons=true&locale=en&layout=compact" alt="mdnahid360" /></p><p>&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p><p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid360&" alt="mdnahid360" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p>
+ 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid360&" alt="mdnahid360" /></p>

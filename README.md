@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p  style="margin: auto;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahid360&show_icons=true&locale=en&layout=compact" alt="mdnahid360" /></p>
-<p  style="margin: auto;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p><p style="margin: auto;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid360&" alt="mdnahid360" /></p>
+<p  style="margin: auto;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p><p style="margin: auto;" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid360&" alt="mdnahid360" /></p>
 
 
 

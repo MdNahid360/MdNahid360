@@ -12,6 +12,6 @@
 
 <div display="flex" justify-content="center" align-items="center">
   <p width="50%"> <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahid360&show_icons=true&locale=en&layout=compact" alt="mdnahid360" /></p>
- <p width="50%">&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p><p width="50%"><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid360&" alt="mdnahid360" /></p>
+ 
 </div>
 

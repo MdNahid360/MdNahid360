@@ -1,21 +1,17 @@
-# Hello I am Md Nahid
-###### iam a Web developer & ui/ux designer.
+<img src="https://i.ibb.co/PQ9TBcg/Web-1920-1.png" width="100%"/>
 
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
-- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-- Support identification, interpretation, fliter of the HTML tags;
-- Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
-- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+<h2>Hello I'm Md Nahid</h2><p>I'm a web developer and UI / UX designer. I am creating web sites and web applications. I work with React most of the time. I have done more than 20 projects so far.
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnahid360&label=Profile%20views&color=0e75b6&style=flat" alt="mdnahid360" /> </p>
 
- <div style="display:flex;  align-items:center;">
-        <p style="padding-right:10px;"><img align="left" style="height:100%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahid360&show_icons=true&locale=en&layout=compact" alt="mdnahid360" /></p><p>&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p>
- </div>
- <div style="display:flex;  justify-content:center;">
-      <p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid360&" alt="mdnahid360" /></p>
- </div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnahid360" alt="mdnahid360" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left"><a href="https://twitter.com/https://twitter.com/mdnahid51728802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mdnahid51728802" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/nahid-ferdaos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahid-ferdaos/" height="30" width="40" /></a><a href="https://fb.com/https://web.facebook.com/profile.php?id=100052249802564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100052249802564" height="30" width="40" /></a></p>
+<h3 align="left">Languages and Tools:</h3><p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
- 
+<div display="flex" justify-content="center" align-items="center">
+  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahid360&show_icons=true&locale=en&layout=compact" alt="mdnahid360" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahid360&show_icons=true&locale=en" alt="mdnahid360" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid360&" alt="mdnahid360" /></p>
+</div>
 

@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/PQ9TBcg/Web-1920-1.png" width="100%"/>
+<img src="https://i.ibb.co/RvSk85k/Web-1920-1.jpg" width="100%"/>
 
 <h2>Hello I'm Md Nahid</h2><p>I'm a web developer and UI / UX designer. I am creating web sites and web applications. I work with React most of the time. I have done more than 20 projects so far.
 </p>

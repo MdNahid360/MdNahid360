@@ -1,4 +1,4 @@
-<h2>Hi I'm Nahid</h2><img src="https://i.ibb.co/mhZgTtY/Web-1920-1.png" width="100%"/><p>I'm a web developer and UI / UX designer. I am creating web sites and web applications. I work with React most of the time. I have done more than 20 projects so far.
+<h2>Hi I'm Nahid</h2><img src="https://i.ibb.co/jW1kJ0q/Web-1366-1.png" width="100%"/><p>I'm a web developer and UI / UX designer. I am creating web sites and web applications. I work with React most of the time. I have done more than 20 projects so far.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnahid360&label=Profile%20views&color=0e75b6&style=flat" alt="mdnahid360" /> </p>

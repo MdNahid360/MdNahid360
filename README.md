@@ -19,9 +19,10 @@
 💻 Visit my Portfolio for more details about me.
 <!--End Intro-->
 ## Contact With Me
-#### [🙋‍♂️ Visit my portfolio](https://your-portfolio-link.com)
+#### [🙋‍♂️ Visit my portfolio](https://nahidferdaos.vercel.app/)
 #### [✉️ mdnahid360s@gmail.com](mailto:mdnahid360s@gmail.com)
 #### [📞 WhatsApp](https://wa.me/8801303531371)
+#### [🎲 Linkenin](https://www.linkedin.com/in/nahid-ferdaos)
 #### [🎲 Join me on Discord](https://discord.gg/1047476943395770368)
 
 <!--Github stats Table--> 

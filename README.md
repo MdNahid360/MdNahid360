@@ -40,12 +40,12 @@
       </br>
     </td>
 <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/MdNahid360">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=MdNahid360&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
+       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+  <p align="center">
+    <a href="https://github.com/MdNahid360">
+      <img align="center" src="https://github-contributor-stats.vercel.app/api?username=MdNahid360&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+    </a>
+  </p>
      </br>
 </td>
 

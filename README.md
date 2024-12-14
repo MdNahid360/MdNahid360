@@ -23,7 +23,7 @@
 #### [✉️ mdnahid360s@gmail.com](mailto:mdnahid360s@gmail.com)
 #### [📞 WhatsApp](https://wa.me/8801303531371)
 #### [🎲 Linkenin](https://www.linkedin.com/in/nahid-ferdaos)
-#### [🎲 Join me on Discord](https://discord.gg/1047476943395770368)
+#### [🎲 Discord](https://discord.gg/1047476943395770368)
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>

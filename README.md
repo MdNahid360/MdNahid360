@@ -9,7 +9,7 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm MD Nahid 
 <!--Start Intro-->               
-<p align="left">i am a Frontend Developer passionate about React.js, Next.js and crafting insightful data visualizations.</p>
+<p align="left">i am a Frontend Developer passionate about React.js, Next.js </p>
 
 
 🌱 I’m currently learning many things and believe that every day is a learning opportunity.
